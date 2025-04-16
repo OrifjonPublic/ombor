@@ -1,3 +1,6 @@
 env
 db.sqlite3
 */migrations/
+# Django static content
+# /static/
+/staticfiles/
